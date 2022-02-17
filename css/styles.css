@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/fondo.jpg);
+    background-size: auto;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    
+}
+
+.text1{
+    font-size: 100px;
+    text-shadow: 4px 9px 16px rgba(0,0,0,0.55);
+    margin: 10px;
+}
+
+
+.header{
+    background-color: rgba(255, 255, 255, 0.103);
+}
+
+
+.card{
+   margin: 5%;
+   box-shadow: 20px 16px 30px 3px rgba(0,0,0,0.53);
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 15px;
+}
+
+
+
+
